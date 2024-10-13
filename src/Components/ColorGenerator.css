@@ -1,0 +1,26 @@
+.ColorGenrator{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.btns{
+    display: flex;
+    gap: 10px;
+}
+.btns button{
+    padding: 10px 15px;
+    font-size: 18px;
+    background: #AB886D;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.ColorTitleType h1{
+    font-size: 60px;
+}
+.ColorCode h2{
+    font-size: 50px;
+}
